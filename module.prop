@@ -2,6 +2,6 @@ id=supl-replacer
 name=A-GPS SUPL replacer
 version=v2.2.1
 versionCode=5
-author=PlqnK, D3SOX
+author=PlqnK, D3SOX, Binsent
 description=Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.
 updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/update.json
